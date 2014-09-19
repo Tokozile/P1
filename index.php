@@ -10,26 +10,33 @@
 
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
 
+<style>
+h1, h2, h3, a, p, img {color:gray; text-align:center; float:relative;}
+p {color:brown;}
+img, a{margin:auto; display:block;}
+
+Read more : http://www.ehow.com/how_4422157_center-image-using-html-programming.html
+</style>
 	
 </head>
 
+<body>
+	
+		<div>
 
-<body>	
-		<div class="pure-u">
-
-		<h1>Sibo Namfukwe </br> CSCI E-15 </h1>
-		<img class="pure-img" src="img/me.png">
+		<h1>Sibo Namfukwe <br> CSCI E-15 </h1>
+		<img src="img/me.png" alt="me" height="250" width="250">
 		
 		<h2>P2</h2>
-		<a href="">Live URL</a> </br>
+		<a href="">Live URL</a> <br>
 		<a href="">Github URL</a>
 		
 		<h2>P3</h2>
-		<a href="">Live URL</a> </br>
+		<a href="">Live URL</a> <br>
 		<a href="">Github URL</a>
 		
 		<h2>P4</h2>
-		<a href="">Live URL</a> </br>
+		<a href="">Live URL</a> <br>
 		<a href="">Github URL</a>
 	
 		</div>
@@ -54,9 +61,9 @@
 		<p>I'm really excited about this class! I'm excited about our instructor and everything I'll be able to learn. I am loving it so far. It's going to be challenging for me but it's exactly what I need at this moment in my career.</p>
 
 		</div>
-</br>
-</br>
-</br>
+<br>
+<br>
+<br>
 		
 </body>
 </html>
