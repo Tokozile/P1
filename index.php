@@ -14,12 +14,13 @@
 h1, h2, h3, a, p, img {color:gray; text-align:center; float:relative;}
 p {color:brown;}
 img, a{margin:auto; display:block;}
+img{border: 5px solid red; border-color:grey;}
 
 </style>
 	
 </head>
 
-<body>
+<body bgcolor="#CCFFFF">
 	
 		<div>
 
