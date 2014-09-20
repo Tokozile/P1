@@ -47,7 +47,7 @@ img, a{margin:auto; display:block;}
 		<p>Hi. I'm Sibo, a Digital Developer. I have been building relatively simple static web pages via the adobe muse platform.</p>		
 
 		<h2>Why are you taking this course?</h2>
-		<p>I'm taking this course to expand my skills and referesh on html/css/javascipt.</p>
+		<p>I'm taking this course to expand my skills and refresh on html/css/javascipt.</p>
 
 		<h2>What previous experience do you have with programming?</h2>
 		<p>I have a background in web development academically but haven't had much opportunity to use those skills at work. </p>
