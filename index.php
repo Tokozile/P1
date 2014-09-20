@@ -15,7 +15,6 @@ h1, h2, h3, a, p, img {color:gray; text-align:center; float:relative;}
 p {color:brown;}
 img, a{margin:auto; display:block;}
 
-Read more : http://www.ehow.com/how_4422157_center-image-using-html-programming.html
 </style>
 	
 </head>
